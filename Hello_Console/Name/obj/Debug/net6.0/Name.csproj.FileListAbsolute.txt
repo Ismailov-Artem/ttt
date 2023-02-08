@@ -1,0 +1,15 @@
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\bin\Debug\net6.0\Name.exe
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\bin\Debug\net6.0\Name.deps.json
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\bin\Debug\net6.0\Name.runtimeconfig.json
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\bin\Debug\net6.0\Name.dll
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\bin\Debug\net6.0\Name.pdb
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.AssemblyInfo.cs
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.dll
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\refint\Name.dll
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.pdb
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\Name.genruntimeconfig.cache
+C:\Users\Alan\Desktop\ttt\Hello_Console\Name\obj\Debug\net6.0\ref\Name.dll
